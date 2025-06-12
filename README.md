@@ -3,4 +3,4 @@
 Навигатор по документации
 
 Папки:
- + [Работа с библиотекой FastBot2](github.com/Nikolaevviktord/esp32-workshop/FastBot-manual "FastBot2")
+ + [Работа с библиотекой FastBot2](github.com/Nikolaevviktord/esp32-workshop/tree/master/FastBot-manual "FastBot2")
