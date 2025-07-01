@@ -39,7 +39,6 @@
 const auto ledPin = 26, butPin = 14;
 
 void setup() {
-    // Настройка режимов пинов
     pinMode(ledPin, OUTPUT);
     pinMode(butPin, INPUT_PULLUP);
 }
