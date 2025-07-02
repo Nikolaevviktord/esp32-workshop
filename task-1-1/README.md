@@ -62,7 +62,7 @@ void setup() {
 }
 
 void loop() {
-  digitalWrite(ledPin, not digitalRead(ledPin);
+  digitalWrite(ledPin, not digitalRead(ledPin));
   delay(500);
 }
 ```
