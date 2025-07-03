@@ -14,7 +14,7 @@
 <blockquote>
 
   1. *Мигание встроенным светодиодом* -> [ссылка](https://github.com/Nikolaevviktord/esp32-workshop/blob/master/task-1-1/README.md)
-  2. *Работа с Serial Monitor - вывод "Hello, World!"* ->
-  3. *Работа с цифровым выходом - мигание внешним светодиодом (+расчёт резистора для светодиода)* ->
+  2. *Работа с Serial Monitor - вывод "Hello, World!"* -> [ссылка](https://github.com/Nikolaevviktord/esp32-workshop/blob/master/task-1-2/README.md)
+  3. *Работа с цифровым выходом - мигание внешним светодиодом (+расчёт резистора для светодиода)* -> [ссылка](https://github.com/Nikolaevviktord/esp32-workshop/blob/master/task-1-3/README.md)
   
 </blockquote>
