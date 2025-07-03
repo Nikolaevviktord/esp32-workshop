@@ -28,7 +28,7 @@
   3. *Управление двумя кнопками* -> [ссылка](https://github.com/Nikolaevviktord/esp32-workshop/blob/master/task-2-3/README.md) (MNG)
   4. *Сенсорная кнопка* -> [ссылка](https://github.com/Nikolaevviktord/esp32-workshop/blob/master/task-2-4/README.md) (MNG + VDN)
   5. *Сенсорная кнопка с прерыванием* -> [ссылка](https://github.com/Nikolaevviktord/esp32-workshop/blob/master/task-2-5/README.md) (MNG)
-  6. *Две сенсорные кнопки* -> [ссылка]() (MNG)
+  6. *Две сенсорные кнопки* -> [ссылка](https://github.com/Nikolaevviktord/esp32-workshop/blob/master/task-2-6/README.md) (MNG)
   7. *ШИМ через `analogWrite`* -> [ссылка]() (MNG)
   8. *ШИМ через `ledcWrite`* -> [ссылка]() (MNG)
   9. *Комбинированное управление (итог)* -> [ссылка]() (MNG)
