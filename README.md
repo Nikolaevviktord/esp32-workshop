@@ -41,7 +41,7 @@
   
 </blockquote>
 
-**3. FreeRTOS**
+**3. FreeRTOS** (В работе)
 
 <blockquote>
 
@@ -53,7 +53,7 @@
 
 </blockquote>
 
-**4. WiFi, связь, Telegram-боты**
+**4. WiFi, связь, Telegram-боты** (В работе)
 
 <blockquote>
 
@@ -71,7 +71,7 @@
 
 </blockquote>
 
-**5. Протокол связи ESP-NOW**
+**5. Протокол связи ESP-NOW** (В работе)
 
 <blockquote>
 
@@ -81,3 +81,5 @@
 3. *Игра* (в разработке)
   
 </blockquote>
+
+**6. Продвинутые Telegram-боты** (В перспективе)
