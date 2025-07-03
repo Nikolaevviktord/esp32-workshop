@@ -18,3 +18,11 @@
   3. *Работа с цифровым выходом - мигание внешним светодиодом (+расчёт резистора для светодиода)* -> [ссылка](https://github.com/Nikolaevviktord/esp32-workshop/blob/master/task-1-3/README.md)
   
 </blockquote>
+
+**2. Базовые функции ESP32. Новые функции `ledcWrite`, `touchRead`, и прочее**
+
+<blockquote>
+
+  1. *Базовое управление кнопкой* -> [ссылка](https://github.com/Nikolaevviktord/esp32-workshop/blob/master/task-2-1/README.md)
+  
+</blockquote>
