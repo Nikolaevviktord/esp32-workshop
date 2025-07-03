@@ -1,8 +1,8 @@
 # Работа с Serial Monitor - вывод "Hello, World!"
 
-Цель: научиться работать с Serial-портом на ESP32
+Цель: Научиться работать с Serial-портом на ESP32
 
-Задача: вывести в Serial Monitor текст "Hello, World!"
+Задача: Вывести в Serial Monitor текст "Hello, World!"
 
 ## Теория
 
