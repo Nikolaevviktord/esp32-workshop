@@ -3,13 +3,14 @@
 Мигание внешним светодиодом практически не отличается от мигания встроенным. Код тот же:
 
 ```cpp
-const int ledPin = 2;
+const int ledPin = 2; // пин светолиода
 
 void setup() {
-  pinMode(ledPin, OUTPUT);
+  pinMode(ledPin, OUTPUT); // объявляем пин светодиода как выход
 }
 
 void loop() {
+  // мигаем светодиодом
   digitalWrite(ledPin, not digitalRead(ledPin));
   delay(500);
 }
