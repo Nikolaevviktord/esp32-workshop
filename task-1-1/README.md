@@ -38,13 +38,14 @@
 Встроенный светодиод (если он есть) на многих платах ESP32 привязан ко второму пину. Вот код для мигания встроенным светодиодом:
 
 ```cpp
-const int ledPin = 2;
+const int ledPin = 2; // пин светолиода
 
 void setup() {
-  pinMode(ledPin, OUTPUT);
+  pinMode(ledPin, OUTPUT); // объявляем пин светодиода как выход
 }
 
 void loop() {
+  // мигаем светодиодом
   digitalWrite(ledPin, HIGH);
   delay(500);
   digitalWrite(ledPin, LOW);
@@ -55,13 +56,14 @@ void loop() {
 Данный код будет работать и на Arduino, и на ESP. Но на ESP мы имеем возможность также узнать, какой сигнал в данный момент подаётся на выход. Так что код можно упростить:
 
 ```cpp
-const int ledPin = 2;
+const int ledPin = 2; // пин светолиода
 
 void setup() {
-  pinMode(ledPin, OUTPUT);
+  pinMode(ledPin, OUTPUT); // объявляем пин светодиода как выход
 }
 
 void loop() {
+  // мигаем светодиодом
   digitalWrite(ledPin, not digitalRead(ledPin));
   delay(500);
 }
